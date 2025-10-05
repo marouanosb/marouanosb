@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Merouane BOUAFIA</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [a Machine Learning LSTM model for traffic prediction](https://github.com/marouanosb/LSTM)
+- 🔭 I’m currently working on [a Full Backend Budgeting APP with GO](https://github.com/marouanosb/Bougette-APP)
 
-- 🌱 I’m currently studying **Secure Software Engineering**
+- 🌱 I’m currently studying **Computer Science**
 
-- ⚡ I am intereseted in **ML, Data & DevOps**
+- ⚡ I am intereseted in **Data & DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
