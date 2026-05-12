@@ -1,11 +1,11 @@
 <h1 align="center">Hello world 👋, I'm Merouane BOUAFIA</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [a Full Backend Budgeting APP with GO](https://github.com/marouanosb/Bougette-APP)
+- 🔭 I’m currently working on [SORBOT: an AI boosted Trade bot.]([https://github.com/marouanosb/Bougette-APP](https://github.com/Anishalfaoui/sorbot))
 
 - 🌱 I’m currently studying **Computer Science**
 
-- ⚡ I am intereseted in **Data & DevOps**
+- ⚡ I am intereseted in **Data & DevOps and BackEnd Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
