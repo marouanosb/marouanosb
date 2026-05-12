@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Merouane BOUAFIA</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [SORBOT: an AI boosted Trade bot.](https://github.com/Anishalfaoui/sorbot)
+- 🔭 I’m currently working on [SORBOT: an AI boosted Trading Bot.](https://github.com/Anishalfaoui/sorbot)
 
 - 🌱 I’m currently studying **Computer Science**
 
